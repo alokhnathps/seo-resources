@@ -11,7 +11,7 @@ Thank you for your interest in contributing to the SEO Resources repository! We 
 2.  **Clone Your Fork:**
     * Clone your forked repository to your local machine using Git:
         ```bash
-        git clone [https://github.com/alokhnathps/seo-resources.git](https://www.google.com/search?q=https://github.com/alokhnathps/seo-resources.git)
+        git clone https://github.com/alokhnathps/seo-resources.git
         ```
 
 3.  **Create a Branch:**
