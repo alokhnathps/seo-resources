@@ -1,9 +1,9 @@
 // loanorcredit.json
 {
-    "@context": "https://schema.org/",
-    "@type": "LoanOrCredit",
-    "name": "Home Mortgage",
-    "description": "A loan for purchasing a home.",
-    "loanTerm": "30 years",
-    "interestRate": "4.0"
-  }
+  "@context": "https://schema.org/",
+  "@type": "LoanOrCredit",
+  "name": "Home Mortgage",
+  "description": "A loan for purchasing a home.",
+  "loanTerm": "30 years",
+  "interestRate": "4.0"
+}

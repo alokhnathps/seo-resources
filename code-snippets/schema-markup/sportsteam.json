@@ -1,8 +1,8 @@
 // sportsteam.json
 {
-    "@context": "https://schema.org/",
-    "@type": "SportsTeam",
-    "name": "Example Sports Team",
-    "sport": "Basketball",
-    "logo": "https://www.example.com/teamlogo.png"
-  }
+  "@context": "https://schema.org/",
+  "@type": "SportsTeam",
+  "name": "Example Sports Team",
+  "sport": "Basketball",
+  "logo": "https://www.example.com/teamlogo.png"
+}

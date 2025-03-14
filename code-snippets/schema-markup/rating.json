@@ -1,7 +1,7 @@
 // rating.json
 {
-    "@context": "https://schema.org/",
-    "@type": "Rating",
-    "ratingValue": "4.5",
-    "bestRating": "5"
-  }
+  "@context": "https://schema.org/",
+  "@type": "Rating",
+  "ratingValue": "4.5",
+  "bestRating": "5"
+}

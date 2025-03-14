@@ -1,21 +1,21 @@
 // howto.json
 {
-    "@context": "https://schema.org",
-    "@type": "HowTo",
-    "name": "How to Bake a Cake",
-    "description": "A step-by-step guide to baking a delicious cake.",
-    "step": [
-      {
-        "@type": "HowToStep",
-        "text": "Preheat oven to 350 degrees F."
-      },
-      {
-        "@type": "HowToStep",
-        "text": "Mix ingredients in a bowl."
-      },
-      {
-        "@type": "HowToStep",
-        "text": "Pour batter into a cake pan and bake for 30 minutes."
-      }
-    ]
-  }
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "How to Bake a Cake",
+  "description": "A step-by-step guide to baking a delicious cake.",
+  "step": [
+    {
+      "@type": "HowToStep",
+      "text": "Preheat oven to 350 degrees F."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Mix ingredients in a bowl."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Pour batter into a cake pan and bake for 30 minutes."
+    }
+  ]
+}

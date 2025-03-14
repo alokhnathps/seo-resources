@@ -1,10 +1,10 @@
 // tvseries.json
 {
-    "@context": "https://schema.org/",
-    "@type": "TVSeries",
-    "name": "Example TV Series",
-    "numberOfSeasons": "3",
-    "genre": "Drama",
-    "image": "https://www.example.com/tvseries.jpg",
-    "description": "An example TV series description."
-  }
+  "@context": "https://schema.org/",
+  "@type": "TVSeries",
+  "name": "Example TV Series",
+  "numberOfSeasons": "3",
+  "genre": "Drama",
+  "image": "https://www.example.com/tvseries.jpg",
+  "description": "An example TV series description."
+}

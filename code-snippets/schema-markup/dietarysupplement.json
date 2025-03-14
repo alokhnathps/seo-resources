@@ -1,8 +1,8 @@
 // dietarysupplement.json
 {
-    "@context": "https://schema.org/",
-    "@type": "DietarySupplement",
-    "name": "Vitamin C",
-    "description": "A dietary supplement to support immune health.",
-    "activeIngredient": "Ascorbic Acid"
-  }
+  "@context": "https://schema.org/",
+  "@type": "DietarySupplement",
+  "name": "Vitamin C",
+  "description": "A dietary supplement to support immune health.",
+  "activeIngredient": "Ascorbic Acid"
+}

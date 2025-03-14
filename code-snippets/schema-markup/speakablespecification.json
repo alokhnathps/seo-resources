@@ -1,9 +1,6 @@
 // speakablespecification.json
 {
-    "@context": "https://schema.org",
-    "@type": "SpeakableSpecification",
-    "cssSelector": [
-      ".article-headline",
-      ".article-body"
-    ]
-  }
+  "@context": "https://schema.org",
+  "@type": "SpeakableSpecification",
+  "cssSelector": [".article-headline", ".article-body"]
+}

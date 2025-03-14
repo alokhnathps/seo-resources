@@ -1,22 +1,22 @@
 // event.json
 {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Tech Conference 2024",
-    "startDate": "2024-11-15T09:00:00+00:00",
-    "endDate": "2024-11-17T17:00:00+00:00",
-    "location": {
-      "@type": "Place",
-      "name": "Convention Center",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "456 Event Rd",
-        "addressLocality": "Event City",
-        "addressRegion": "EV",
-        "postalCode": "54321",
-        "addressCountry": "US"
-      }
-    },
-    "description": "A conference for tech enthusiasts.",
-    "image": "https://www.example.com/conference.jpg"
-  }
+  "@context": "https://schema.org",
+  "@type": "Event",
+  "name": "Tech Conference 2024",
+  "startDate": "2024-11-15T09:00:00+00:00",
+  "endDate": "2024-11-17T17:00:00+00:00",
+  "location": {
+    "@type": "Place",
+    "name": "Convention Center",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "456 Event Rd",
+      "addressLocality": "Event City",
+      "addressRegion": "EV",
+      "postalCode": "54321",
+      "addressCountry": "US"
+    }
+  },
+  "description": "A conference for tech enthusiasts.",
+  "image": "https://www.example.com/conference.jpg"
+}

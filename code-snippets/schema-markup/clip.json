@@ -1,16 +1,16 @@
 // clip.json
 {
-    "@context": "https://schema.org/",
-    "@type": "Clip",
-    "name": "Highlight Reel",
-    "partOfSeason": {
-      "@type": "TVSeason",
-      "seasonNumber": "2"
-    },
-    "partOfEpisode": {
-        "@type": "TVEpisode",
-        "name": "The Big Game"
-    },
-    "url": "https://www.example.com/clip.mp4",
-    "description": "A highlight reel from the latest episode."
-  }
+  "@context": "https://schema.org/",
+  "@type": "Clip",
+  "name": "Highlight Reel",
+  "partOfSeason": {
+    "@type": "TVSeason",
+    "seasonNumber": "2"
+  },
+  "partOfEpisode": {
+    "@type": "TVEpisode",
+    "name": "The Big Game"
+  },
+  "url": "https://www.example.com/clip.mp4",
+  "description": "A highlight reel from the latest episode."
+}

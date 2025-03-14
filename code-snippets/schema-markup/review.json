@@ -1,19 +1,19 @@
 // review.json
 {
-    "@context": "https://schema.org/",
-    "@type": "Review",
-    "itemReviewed": {
-      "@type": "Product",
-      "name": "Widget Z"
-    },
-    "reviewRating": {
-      "@type": "Rating",
-      "ratingValue": "4",
-      "bestRating": "5"
-    },
-    "author": {
-      "@type": "Person",
-      "name": "Reviewer Name"
-    },
-    "reviewBody": "Great product!"
-  }
+  "@context": "https://schema.org/",
+  "@type": "Review",
+  "itemReviewed": {
+    "@type": "Product",
+    "name": "Widget Z"
+  },
+  "reviewRating": {
+    "@type": "Rating",
+    "ratingValue": "4",
+    "bestRating": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Reviewer Name"
+  },
+  "reviewBody": "Great product!"
+}

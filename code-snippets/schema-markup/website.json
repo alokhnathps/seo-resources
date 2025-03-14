@@ -1,12 +1,12 @@
 // website.json
 {
-    "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://www.example.com/",
-    "name": "Example Website",
-    "potentialAction": {
-      "@type": "SearchAction",
-      "target": "https://www.example.com/search?q={search_term_string}",
-      "query-input": "required name=search_term_string"
-    }
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "url": "https://www.example.com/",
+  "name": "Example Website",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://www.example.com/search?q={search_term_string}",
+    "query-input": "required name=search_term_string"
   }
+}

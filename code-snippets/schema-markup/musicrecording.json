@@ -1,14 +1,14 @@
 // musicrecording.json
 {
-    "@context": "https://schema.org/",
-    "@type": "MusicRecording",
-    "name": "Example Song",
-    "byArtist": {
-        "@type": "MusicGroup",
-        "name": "Example Artist"
-    },
-    "inAlbum": {
-        "@type": "MusicAlbum",
-        "name": "Album Name"
-    }
+  "@context": "https://schema.org/",
+  "@type": "MusicRecording",
+  "name": "Example Song",
+  "byArtist": {
+    "@type": "MusicGroup",
+    "name": "Example Artist"
+  },
+  "inAlbum": {
+    "@type": "MusicAlbum",
+    "name": "Album Name"
+  }
 }

@@ -1,9 +1,9 @@
 // contactpoint.json
 {
-    "@context": "https://schema.org",
-    "@type": "ContactPoint",
-    "telephone": "+1-555-123-4567",
-    "contactType": "customer service",
-    "areaServed": "US",
-    "availableLanguage": "en"
-  }
+  "@context": "https://schema.org",
+  "@type": "ContactPoint",
+  "telephone": "+1-555-123-4567",
+  "contactType": "customer service",
+  "areaServed": "US",
+  "availableLanguage": "en"
+}

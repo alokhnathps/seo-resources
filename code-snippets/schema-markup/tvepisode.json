@@ -1,16 +1,16 @@
 // tvepisode.json
 {
-    "@context": "https://schema.org/",
-    "@type": "TVEpisode",
-    "name": "Episode Title",
-    "partOfSeason": {
-        "@type": "TVSeason",
-        "seasonNumber": "1"
-    },
-    "partOfSeries": {
-        "@type": "TVSeries",
-        "name": "Example TV Series"
-    },
-    "image": "https://www.example.com/tvepisode.jpg",
-    "description": "An example TV episode description."
-  }
+  "@context": "https://schema.org/",
+  "@type": "TVEpisode",
+  "name": "Episode Title",
+  "partOfSeason": {
+    "@type": "TVSeason",
+    "seasonNumber": "1"
+  },
+  "partOfSeries": {
+    "@type": "TVSeries",
+    "name": "Example TV Series"
+  },
+  "image": "https://www.example.com/tvepisode.jpg",
+  "description": "An example TV episode description."
+}

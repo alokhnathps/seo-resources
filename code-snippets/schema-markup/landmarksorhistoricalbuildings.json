@@ -1,15 +1,15 @@
 // landmarksorhistoricalbuildings.json
 {
-    "@context": "https://schema.org/",
-    "@type": "LandmarksOrHistoricalBuildings",
-    "name": "The Old Mill",
-    "description": "A historical mill built in the 1800s.",
-    "image": "https://www.example.com/mill.jpg",
-    "address": {
-      "@type": "PostalAddress",
-      "streetAddress": "Mill Road",
-      "addressLocality": "Historical Town",
-      "addressRegion": "HT",
-      "addressCountry": "US"
-    }
+  "@context": "https://schema.org/",
+  "@type": "LandmarksOrHistoricalBuildings",
+  "name": "The Old Mill",
+  "description": "A historical mill built in the 1800s.",
+  "image": "https://www.example.com/mill.jpg",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Mill Road",
+    "addressLocality": "Historical Town",
+    "addressRegion": "HT",
+    "addressCountry": "US"
   }
+}

@@ -1,23 +1,23 @@
 // faqpage.json
 {
-    "@context": "https://schema.org",
-    "@type": "FAQPage",
-    "mainEntity": [
-      {
-        "@type": "Question",
-        "name": "What is schema markup?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "Schema markup is code that helps search engines understand your website's content."
-        }
-      },
-      {
-        "@type": "Question",
-        "name": "Why is schema markup important?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "It improves your website's visibility in search results."
-        }
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is schema markup?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Schema markup is code that helps search engines understand your website's content."
       }
-    ]
-  }
+    },
+    {
+      "@type": "Question",
+      "name": "Why is schema markup important?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It improves your website's visibility in search results."
+      }
+    }
+  ]
+}

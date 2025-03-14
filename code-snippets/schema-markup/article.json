@@ -1,24 +1,22 @@
 // article.json
 {
-    "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "The Ultimate Guide to Schema Markup",
-    "image": [
-      "https://www.example.com/article-hero.jpg"
-    ],
-    "datePublished": "2024-10-27T10:00:00+00:00",
-    "dateModified": "2024-10-28T12:00:00+00:00",
-    "author": {
-      "@type": "Person",
-      "name": "Jane Doe"
-    },
-    "publisher": {
-      "@type": "Organization",
-      "name": "Example Publications",
-      "logo": {
-        "@type": "ImageObject",
-        "url": "https://www.example.com/logo.png"
-      }
-    },
-    "description": "Learn everything you need to know about schema markup."
-  }
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "The Ultimate Guide to Schema Markup",
+  "image": ["https://www.example.com/article-hero.jpg"],
+  "datePublished": "2024-10-27T10:00:00+00:00",
+  "dateModified": "2024-10-28T12:00:00+00:00",
+  "author": {
+    "@type": "Person",
+    "name": "Jane Doe"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Example Publications",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.example.com/logo.png"
+    }
+  },
+  "description": "Learn everything you need to know about schema markup."
+}

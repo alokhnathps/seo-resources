@@ -1,25 +1,25 @@
 // product.json
 {
-    "@context": "https://schema.org/",
-    "@type": "Product",
-    "name": "Widget X",
-    "image": "https://www.example.com/widget-x.jpg",
-    "description": "The best widget for all your widgeting needs.",
-    "sku": "0446310786",
-    "brand": {
-      "@type": "Brand",
-      "name": "Example Brand"
-    },
-    "offers": {
-      "@type": "Offer",
-      "url": "https://www.example.com/widget-x",
-      "priceCurrency": "USD",
-      "price": "29.99",
-      "availability": "https://schema.org/InStock"
-    },
-    "aggregateRating": {
-      "@type": "AggregateRating",
-      "ratingValue": "4.5",
-      "reviewCount": "123"
-    }
+  "@context": "https://schema.org/",
+  "@type": "Product",
+  "name": "Widget X",
+  "image": "https://www.example.com/widget-x.jpg",
+  "description": "The best widget for all your widgeting needs.",
+  "sku": "0446310786",
+  "brand": {
+    "@type": "Brand",
+    "name": "Example Brand"
+  },
+  "offers": {
+    "@type": "Offer",
+    "url": "https://www.example.com/widget-x",
+    "priceCurrency": "USD",
+    "price": "29.99",
+    "availability": "https://schema.org/InStock"
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "reviewCount": "123"
   }
+}

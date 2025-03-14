@@ -1,8 +1,8 @@
 // webpage.json
 {
-    "@context": "https://schema.org",
-    "@type": "WebPage",
-    "url": "https://www.example.com/about",
-    "name": "About Us",
-    "description": "Information about our company."
-  }
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "url": "https://www.example.com/about",
+  "name": "About Us",
+  "description": "Information about our company."
+}

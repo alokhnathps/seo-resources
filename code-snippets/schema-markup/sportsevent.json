@@ -1,21 +1,21 @@
 // sportsevent.json
 {
-    "@context": "https://schema.org/",
-    "@type": "SportsEvent",
-    "name": "Championship Game",
-    "startDate": "2024-11-10T19:00:00",
-    "location": {
-      "@type": "Place",
-      "name": "Sports Arena"
+  "@context": "https://schema.org/",
+  "@type": "SportsEvent",
+  "name": "Championship Game",
+  "startDate": "2024-11-10T19:00:00",
+  "location": {
+    "@type": "Place",
+    "name": "Sports Arena"
+  },
+  "competitor": [
+    {
+      "@type": "SportsTeam",
+      "name": "Team A"
     },
-    "competitor": [
-      {
-        "@type": "SportsTeam",
-        "name": "Team A"
-      },
-      {
-        "@type": "SportsTeam",
-        "name": "Team B"
-      }
-    ]
-  }
+    {
+      "@type": "SportsTeam",
+      "name": "Team B"
+    }
+  ]
+}

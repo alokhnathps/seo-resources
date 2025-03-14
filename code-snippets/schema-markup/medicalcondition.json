@@ -1,11 +1,11 @@
 // medicalcondition.json
 {
-    "@context": "https://schema.org",
-    "@type": "MedicalCondition",
-    "name": "Common Cold",
-    "description": "A common viral infection of the upper respiratory tract.",
-    "possibleTreatment": {
-      "@type": "MedicalTherapy",
-      "name": "Rest and fluids"
-    }
+  "@context": "https://schema.org",
+  "@type": "MedicalCondition",
+  "name": "Common Cold",
+  "description": "A common viral infection of the upper respiratory tract.",
+  "possibleTreatment": {
+    "@type": "MedicalTherapy",
+    "name": "Rest and fluids"
   }
+}
