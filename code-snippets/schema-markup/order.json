@@ -1,0 +1,21 @@
+// order.json
+{
+    "@context": "https://schema.org/",
+    "@type": "Order",
+    "orderNumber": "12345",
+    "orderStatus": "OrderDelivered",
+    "orderedItem": [
+      {
+        "@type": "OrderItem",
+        "orderQuantity": "1",
+        "orderedItem": {
+          "@type": "Product",
+          "name": "Widget X"
+        }
+      }
+    ],
+    "customer": {
+      "@type": "Person",
+      "name": "John Customer"
+    }
+  }

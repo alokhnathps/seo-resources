@@ -1,0 +1,13 @@
+// organization.json
+{
+    "@context": "https://schema.org/",
+    "@type": "Organization",
+    "name": "Example Company",
+    "url": "https://www.example.com",
+    "logo": "https://www.example.com/logo.png",
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "+15559876543",
+      "contactType": "customer service"
+    }
+  }

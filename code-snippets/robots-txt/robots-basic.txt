@@ -1,0 +1,18 @@
+# robots.txt for example.com
+
+User-agent: Googlebot
+Disallow: /admin/temp/
+Allow: /admin/temp/allowed-page.html
+
+User-agent: Bingbot
+Disallow: /private/sensitive-data/
+
+User-agent: *
+Disallow: /cgi-bin/
+Disallow: /tmp/
+Disallow: /old-pages/
+Disallow: /*.pdf$
+Disallow: /*.jpg$
+Allow: /images/public-image.jpg
+
+Sitemap: https://www.example.com/sitemap.xml

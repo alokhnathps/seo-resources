@@ -1,0 +1,12 @@
+// musicalbum.json
+{
+    "@context": "https://schema.org/",
+    "@type": "MusicAlbum",
+    "name": "Album Name",
+    "byArtist": {
+        "@type": "MusicGroup",
+        "name": "Example Artist"
+    },
+    "genre": "Pop",
+    "numTracks": "10"
+}

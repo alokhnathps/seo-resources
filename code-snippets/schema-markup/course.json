@@ -1,0 +1,11 @@
+// course.json
+{
+    "@context": "https://schema.org/",
+    "@type": "Course",
+    "name": "Example Course",
+    "description": "An example course description.",
+    "provider": {
+      "@type": "Organization",
+      "name": "Example Education"
+    }
+  }

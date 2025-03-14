@@ -1,0 +1,22 @@
+// movie.json
+{
+    "@context": "https://schema.org/",
+    "@type": "Movie",
+    "name": "Example Movie",
+    "director": {
+      "@type": "Person",
+      "name": "Director Name"
+    },
+    "actor": [
+      {
+        "@type": "Person",
+        "name": "Actor 1"
+      },
+      {
+        "@type": "Person",
+        "name": "Actor 2"
+      }
+    ],
+    "image": "https://www.example.com/movie.jpg",
+    "description": "An example movie description."
+  }

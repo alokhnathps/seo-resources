@@ -1,0 +1,12 @@
+// episode.json
+{
+    "@context": "https://schema.org/",
+    "@type": "Episode",
+    "name": "Episode 5: The Journey",
+    "partOfSeries": {
+      "@type": "PodcastSeries",
+      "name": "Adventure Podcast"
+    },
+    "datePublished": "2024-11-01",
+    "description": "The team embarks on a dangerous journey."
+  }

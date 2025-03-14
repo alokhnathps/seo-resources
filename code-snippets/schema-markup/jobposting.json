@@ -1,0 +1,24 @@
+// jobposting.json
+{
+    "@context": "https://schema.org/",
+    "@type": "JobPosting",
+    "title": "Senior Software Engineer",
+    "description": "We are looking for a senior software engineer...",
+    "datePosted": "2024-10-27",
+    "validThrough": "2024-11-27",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Example Company",
+      "logo": "https://www.example.com/logo.png"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Anytown",
+        "addressRegion": "CA",
+        "addressCountry": "US"
+      }
+    }
+  }

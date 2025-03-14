@@ -1,0 +1,9 @@
+// offer.json
+{
+    "@context": "https://schema.org",
+    "@type": "Offer",
+    "price": "29.99",
+    "priceCurrency": "USD",
+    "availability": "https://schema.org/InStock",
+    "url": "https://www.example.com/product"
+  }

@@ -1,0 +1,11 @@
+// person.json
+{
+    "@context": "https://schema.org/",
+    "@type": "Person",
+    "name": "John Doe",
+    "jobTitle": "Software Engineer",
+    "url": "https://www.example.com/johndoe",
+    "image": "https://www.example.com/johndoe.jpg",
+    "email": "john.doe@example.com",
+    "telephone": "+15551234567"
+  }

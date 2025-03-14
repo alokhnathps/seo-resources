@@ -1,0 +1,9 @@
+// exerciseplan.json
+{
+    "@context": "https://schema.org/",
+    "@type": "ExercisePlan",
+    "name": "Beginner Workout Plan",
+    "description": "A workout plan for beginners.",
+    "activityDuration": "PT30M",
+    "activityFrequency": "3 times per week"
+  }

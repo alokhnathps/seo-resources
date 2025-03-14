@@ -1,0 +1,18 @@
+// softwareapplication.json
+{
+    "@context": "https://schema.org/",
+    "@type": "SoftwareApplication",
+    "name": "Example App",
+    "operatingSystem": "Windows 10, macOS Sierra",
+    "applicationCategory": "MultimediaApplication",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.5",
+      "ratingCount": "100"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": "9.99",
+      "priceCurrency": "USD"
+    }
+  }

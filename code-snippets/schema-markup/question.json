@@ -1,0 +1,10 @@
+// question.json
+{
+    "@context": "https://schema.org",
+    "@type": "Question",
+    "name": "How does schema markup work?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Schema markup uses code to help search engines understand your website's content."
+    }
+  }

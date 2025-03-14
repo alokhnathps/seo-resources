@@ -1,0 +1,8 @@
+// drug.json
+{
+    "@context": "https://schema.org",
+    "@type": "Drug",
+    "name": "Aspirin",
+    "description": "A medication used to reduce pain, fever, or inflammation.",
+    "activeIngredient": "Acetylsalicylic acid"
+  }

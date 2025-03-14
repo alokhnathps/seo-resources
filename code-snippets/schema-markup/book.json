@@ -1,0 +1,13 @@
+// book.json
+{
+    "@context": "https://schema.org/",
+    "@type": "Book",
+    "name": "The Example Book",
+    "author": {
+      "@type": "Person",
+      "name": "Author Name"
+    },
+    "isbn": "978-0-1234-5678-9",
+    "image": "https://www.example.com/book.jpg",
+    "description": "An example book description."
+  }

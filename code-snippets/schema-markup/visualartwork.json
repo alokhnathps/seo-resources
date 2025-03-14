@@ -1,0 +1,12 @@
+// visualartwork.json
+{
+    "@context": "https://schema.org/",
+    "@type": "VisualArtwork",
+    "name": "Sunset Landscape",
+    "artist": {
+      "@type": "Person",
+      "name": "Jane Artist"
+    },
+    "image": "https://www.example.com/artwork.jpg",
+    "material": "Oil on canvas"
+  }

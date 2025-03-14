@@ -1,0 +1,20 @@
+// localbusiness.json
+{
+    "@context": "https://schema.org",
+    "@type": "LocalBusiness",
+    "name": "Example Restaurant",
+    "image": "https://www.example.com/restaurant.jpg",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "123 Main St",
+      "addressLocality": "Anytown",
+      "addressRegion": "CA",
+      "postalCode": "91234",
+      "addressCountry": "US"
+    },
+    "telephone": "+15551234567",
+    "openingHours": [
+      "Mo-Su 11:00-22:00"
+    ],
+    "priceRange": "$$"
+  }

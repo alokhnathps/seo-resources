@@ -1,0 +1,10 @@
+// orderitem.json
+{
+    "@context": "https://schema.org/",
+    "@type": "OrderItem",
+    "orderQuantity": "2",
+    "orderedItem": {
+      "@type": "Product",
+      "name": "Widget Y"
+    }
+  }

@@ -1,0 +1,9 @@
+// investmentordeposit.json
+{
+    "@context": "https://schema.org/",
+    "@type": "InvestmentOrDeposit",
+    "name": "High Yield Savings Account",
+    "description": "A savings account with a competitive interest rate.",
+    "interestRate": "2.5",
+    "currency": "USD"
+  }
