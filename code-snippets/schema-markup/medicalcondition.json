@@ -1,4 +1,3 @@
-// medicalcondition.json
 {
   "@context": "https://schema.org",
   "@type": "MedicalCondition",

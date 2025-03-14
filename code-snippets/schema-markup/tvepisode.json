@@ -1,4 +1,3 @@
-// tvepisode.json
 {
   "@context": "https://schema.org/",
   "@type": "TVEpisode",

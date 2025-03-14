@@ -1,4 +1,3 @@
-// musicrecording.json
 {
   "@context": "https://schema.org/",
   "@type": "MusicRecording",

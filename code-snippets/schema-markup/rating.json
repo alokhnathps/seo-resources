@@ -1,4 +1,3 @@
-// rating.json
 {
   "@context": "https://schema.org/",
   "@type": "Rating",

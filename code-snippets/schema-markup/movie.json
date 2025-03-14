@@ -1,4 +1,3 @@
-// movie.json
 {
   "@context": "https://schema.org/",
   "@type": "Movie",

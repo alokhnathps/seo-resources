@@ -1,4 +1,3 @@
-// orderitem.json
 {
   "@context": "https://schema.org/",
   "@type": "OrderItem",

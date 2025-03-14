@@ -1,4 +1,3 @@
-// contactpoint.json
 {
   "@context": "https://schema.org",
   "@type": "ContactPoint",
