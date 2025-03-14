@@ -22,7 +22,7 @@ This section provides comprehensive checklists for various aspects of SEO.
 
 Useful code examples for implementing SEO best practices.
 
-* **[Schema Markup Examples](code-snippets/schema-markup/)**: Implement structured data to enhance search engine understanding.
+* **[Schema Markup Examples](code-snippets/schema-markup/)**: Implement structured data to enhance search engine understanding. **[Schema Markup Readme](code-snippets/schema-markup/schema-markup-readme.md)**
 * **[robots.txt Examples](code-snippets/robots-txt/)**: Control search engine crawling with robots.txt.
 * **[Sitemap Examples](code-snippets/sitemap/)**: Configure server behavior for SEO.
 * **[HTML SEO Best Practices](code-snippets/html/)**: Improve HTML for SEO.
