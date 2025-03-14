@@ -61,3 +61,5 @@ All Schema Markup code snippets are provided in JSON-LD format for easy implemen
     </body>
 </html>
 ```
+
+* **[Try Schema Markups now](code-snippets/schema-markup/)**: Implement structured data to enhance search engine understanding.
