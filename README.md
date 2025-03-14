@@ -17,7 +17,6 @@ This section provides comprehensive checklists for various aspects of SEO.
 * **[On-Page SEO Checklist](checklists/on-page/on-page-checklist.md)**: Optimize individual web pages for search engines.
 * **[Technical SEO Checklist](checklists/technical/technical-seo-checklist.md)**: Ensure your website's technical health for optimal crawling and indexing.
 * **[Keyword Research Checklist](checklists/keyword-research/keyword-research-checklist.md)**: Find the right keywords to target your audience.
-* (Add more checklists as you create them)
 
 ## Code Snippets
 
@@ -25,7 +24,7 @@ Useful code examples for implementing SEO best practices.
 
 * **[Schema Markup Examples](code-snippets/schema-markup/)**: Implement structured data to enhance search engine understanding.
 * **[robots.txt Examples](code-snippets/robots-txt/)**: Control search engine crawling with robots.txt.
-* **[.htaccess Examples](code-snippets/.htaccess/)**: Configure server behavior for SEO.
+* **[Sitemap Examples](code-snippets/sitemap/)**: Configure server behavior for SEO.
 * **[HTML SEO Best Practices](code-snippets/html/)**: Improve HTML for SEO.
 
 ## Tools & Resources
